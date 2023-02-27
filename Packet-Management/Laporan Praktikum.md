@@ -153,6 +153,29 @@ Hasil SS :
 Paket "net-tools" adalah paket yang berisi utilitas jaringan penting seperti ifconfig, route, netstat dan lain-lain. Untuk menginstal paket "net-tools" di Ubuntu dengan menggunakan APT (Advanced Package Tool), ikuti langkah-langkah berikut:
 
 1. Buka terminal di Ubuntu. Anda dapat membukanya dengan menekan tombol Ctrl+Alt+T pada keyboard.
-1. Jalankan perintah berikut untuk memperbarui daftar paket yang tersedia:
-
+2. Jalankan perintah berikut untuk memperbarui daftar paket yang tersedia:
 ![](Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.006.png)
+   Anda akan diminta untuk memasukkan password administrator.
+3. Setelah perintah di atas selesai dieksekusi, jalankan perintah berikut di Terminal untuk menginstal paket "net-tools":
+![image](https://user-images.githubusercontent.com/105654058/221572766-83c24b2b-793d-435a-b7e7-4d746e1ed02e.png)
+4. Tunggu beberapa saat hingga proses instalasi selesai. Setelah selesai, paket "net-tools" akan terinstal pada sistem Ubuntu Anda.
+5. Untuk menggunakan utilitas yang terkandung dalam paket "net-tools", jalankan perintah seperti ifconfig, route, netstat dan sebagainya di terminal.
+
+- **htop**
+htop adalah sebuah utilitas yang digunakan untuk memonitor kinerja sistem pada sistem operasi Linux.
+Untuk menginstal htop di Ubuntu, ikuti langkah-langkah berikut:
+
+1. Buka terminal di Ubuntu. Anda dapat membukanya dengan menekan tombol Ctrl+Alt+T pada keyboard.
+2. Jalankan perintah berikut untuk memperbarui daftar paket yang tersedia:
+![image](https://user-images.githubusercontent.com/105654058/221573838-84fdeeaa-9dea-444d-bb92-fd5994578ff7.png)
+3. Setelah perintah di atas selesai dieksekusi, jalankan perintah berikut di Terminal untuk menginstal paket "htop":
+![image](https://user-images.githubusercontent.com/105654058/221573917-b60d61d0-b9b1-4f12-9bb1-b83186fcdf35.png)
+4. Tunggu beberapa saat hingga proses instalasi selesai. Setelah selesai, htop akan terinstal pada sistem Ubuntu Anda.
+5. Untuk menggunakan htop, jalankan perintah berikut di terminal:
+![image](https://user-images.githubusercontent.com/105654058/221575434-a7890392-e224-4b08-823a-16fcc5a50003.png)
+maka akan tampil seperti gambar dibawah
+![image](https://user-images.githubusercontent.com/105654058/221575264-46c5ee4c-2fcd-48b8-b487-3432690b1abf.png)
+
+Htop akan menampilkan antarmuka pengguna grafis yang dapat digunakan untuk memonitor kinerja sistem, melihat penggunaan CPU,memori, disk, dan lain-lain.
+
+
