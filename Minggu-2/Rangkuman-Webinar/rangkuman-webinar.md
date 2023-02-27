@@ -2,7 +2,7 @@
 <div align="center">
   <h2>Rangkuman Webinar<br/><br/>CS trend seminar<br/><br/>Shaping The System More Secure</h2>
   
-  <img src="../../asset/Logo_PENS.png>
+  <img src="../../asset/Logo_PENS.png" />
    
   <p align="center">
     Dosen Pengampu :
