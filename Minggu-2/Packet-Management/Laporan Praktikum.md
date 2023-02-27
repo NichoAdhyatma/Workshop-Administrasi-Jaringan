@@ -1,6 +1,6 @@
 ﻿**LAPORAN RESMI          WORKSHOP ADMINISTRASI Package Manager**
 
-![](Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.001.png)
+![](../../asset/Logo_PENS.png)
 
 Dosen Pengampu :
 
@@ -91,7 +91,7 @@ Untuk mengatur repository di Ubuntu, langkah-langkahnya adalah sebagai berikut:
 
 SS ubuntu :
 
-![](Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.002.jpeg)
+![](../../asset/Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.002.jpeg)
 
 **Multiverse di linux**
 
@@ -134,9 +134,9 @@ MC (Midnight Commander) adalah sebuah aplikasi file manager untuk sistem operasi
 1. Buka terminal di Linux Anda. Anda dapat membukanya dengan menekan tombol Ctrl + Alt + T pada keyboard.
 2. Untuk menginstal MC, jalankan perintah berikut di terminal:
 
-![](Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.003.png)
+![](../../asset/Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.003.png)
 
-![](Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.004.jpeg)
+![](../../asset/Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.004.jpeg)
 
 Perintah "sudo" digunakan untuk menjalankan perintah sebagai superuser atau administrator. Perintah "apt-get update" digunakan untuk memperbarui daftar paket perangkat lunak yang tersedia, sedangkan perintah "apt-get install mc" digunakan untuk menginstal paket Midnight Commander.
 
@@ -146,7 +146,7 @@ Perintah "sudo" digunakan untuk menjalankan perintah sebagai superuser atau admi
 
 Hasil SS :
 
-![](Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.005.jpeg)
+![](../../asset/Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.005.jpeg)
 
 - **net-tools**
 
@@ -154,7 +154,7 @@ Paket "net-tools" adalah paket yang berisi utilitas jaringan penting seperti ifc
 
 1. Buka terminal di Ubuntu. Anda dapat membukanya dengan menekan tombol Ctrl+Alt+T pada keyboard.
 2. Jalankan perintah berikut untuk memperbarui daftar paket yang tersedia:
-![](Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.006.png)
+![](../../asset/Aspose.Words.a86b904e-cc11-4277-935d-b62d80957821.006.png)
    Anda akan diminta untuk memasukkan password administrator.
 3. Setelah perintah di atas selesai dieksekusi, jalankan perintah berikut di Terminal untuk menginstal paket "net-tools":
 ![image](https://user-images.githubusercontent.com/105654058/221572766-83c24b2b-793d-435a-b7e7-4d746e1ed02e.png)
