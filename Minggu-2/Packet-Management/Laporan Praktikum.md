@@ -1,6 +1,6 @@
 ﻿**LAPORAN RESMI          WORKSHOP ADMINISTRASI Package Manager**
 
-![](../../asset/Logo_PENS.png)
+>![](../../asset/Logo_PENS.png)
 
 Dosen Pengampu :
 
