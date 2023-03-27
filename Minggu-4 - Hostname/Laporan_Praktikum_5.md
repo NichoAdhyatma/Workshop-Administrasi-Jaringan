@@ -53,13 +53,19 @@ Screenshot<br/>
 
 ### Sambungkan PC atau laptop ke jaringan, cek IP address pastikan IP add dari PC mendapatkan IP add dari dhcp server
 
-<img src="./asset/image-4.jpg" />
+<img src="./asset/ip-windows.png" />
 
 ### Power up nyalakan VM, pastikan konfigurasi jaringan BRIDGE dan pastikan mendapatkan IP add dari dhcp server
 
 - Konfigurasikan BRIDGE pada VM yang digunakan dengan cara klik Network configuration di VM => Ubah menjadi BRIDGE Adapter
 
 <img src="./asset/image-5.png" />
+
+- Cek IP di Virtualbox
+
+<img src="./asset/ip-vb.png" />
+
+
 
 ### Konfigurasi IP VM Menjadi Static IP : 192.168.X.10
 
@@ -131,7 +137,7 @@ ntpq -p
 ```sh
 timedatectl
 ```
-<img src="./asset/iamge-12.png" />
+<img src="./asset/timedatectl.png" />
 
 ### Konfigurasi Sudo
 
