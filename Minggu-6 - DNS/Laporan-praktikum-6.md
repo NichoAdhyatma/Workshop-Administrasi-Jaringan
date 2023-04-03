@@ -9,10 +9,10 @@
     Dr. Ferry Astika Saputra ST, M.Sc
     <br/><br/>
     <p>
-   <br/>
-    Nama : Nicholaus Adhyatma Surya Kusuma <br/>
-    Kelas : 2 D4 IT B <br/>
-    NRP : 3121600049 <br/> 
+  <p>Disusun oleh :</p>
+    - Troy Fredellius Ardystama 3121600038 <br/>
+    - Nicholaus Adhyatma Surya Kusuma 3121600049 <br/> 
+    - Cantika Putri Romadhona 3121600051 <br/>
     </p>
   </p>
 </div>
@@ -122,12 +122,14 @@ sudo systemctl restart bind9.server
 
  <img src="./assets/resolv.conf.png" />
 
- Tes ping
+ Tes ping server
  <img src="./assets/tes-ping.png"/>
 
  nslookup
  <img src="./assets/nslookup.png"/>
 
+ Tes ping client
+ <img src="./assets/tes-client.jpg"/>
 
 
 
