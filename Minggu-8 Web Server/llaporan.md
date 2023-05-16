@@ -108,3 +108,4 @@ sudo apt install php
 ```sh
 php -v
 ```
+<img src="./assets/php-v.png"/>
