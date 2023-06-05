@@ -31,7 +31,6 @@
 - tambahkan ip clint ke file db.kampus-06.takehome.com pada wwww seperti gambar dibawah :
 <img src="./assets/4.png"/>
 
-
 ### 2. Instalasi Laravel pada client web server
 - Install composer dengan perintah 
 ```sh
